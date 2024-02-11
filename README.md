@@ -4,7 +4,7 @@ This repository contains a React application that utilizes Redux Toolkit for sta
 
 ## Preview
 
-- Click to visit [![Cart Management]](https://reduxtoolkitcartmanagement.netlify.app/)
+- Click to visit [Cart Management](https://reduxtoolkitcartmanagement.netlify.app/)
 
 https://github.com/VivekKumar-8287/Redux-Toolkit-Cart-Management/assets/104918205/0de04093-7644-49aa-ace5-352458af4d8c
 
