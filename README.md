@@ -4,9 +4,7 @@ This repository contains a React application that utilizes Redux Toolkit for sta
 
 ## Preview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [redux](www.python.org)
-
+- Click to visit [React toolkit Cart Management](https://reduxtoolkitcartmanagement.netlify.app/)
 
 https://github.com/VivekKumar-8287/Redux-Toolkit-Cart-Management/assets/104918205/0de04093-7644-49aa-ace5-352458af4d8c
 
